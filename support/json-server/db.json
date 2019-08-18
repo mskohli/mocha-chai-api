@@ -6,10 +6,7 @@
       "fName": "Peter",
       "lName": "Parker",
       "age": 20,
-      "powers": [
-        "wall-crawling",
-        "web-slinging"
-      ],
+      "powers": ["wall-crawling", "web-slinging"],
       "killer": false
     }
   ]
